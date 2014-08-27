@@ -1,5 +1,5 @@
 //
-//  PJViewController.h
+//  PJTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Patrik Johansson on 27/08/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface PJViewController : UIViewController
+@interface PJTableViewController : UITableViewController
 
 @end
